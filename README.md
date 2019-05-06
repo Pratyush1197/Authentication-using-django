@@ -2,7 +2,8 @@
 This is a project which will provide authentication to users through a token generated. All the requests are fired through Postman
 
 
-$ git clone 
+$ git clone
+
 $ cd Authentication-using-django/
 $ virtualenv --python=`which python3` venv
 $ source venv/bin/activate
